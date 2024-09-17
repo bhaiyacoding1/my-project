@@ -2,7 +2,7 @@ import React from 'react'
 import { useRef } from 'react'
 import { motion } from "framer-motion"
 import Star from '../assets/icons/grastar.svg'
-import book from '../assets/images/book.png'
+import book from '../assets/images/Book.png'
 import TechIcon from './TechIcon'
 import grain from '../assets/images/grain.jpg'
 import map from '../assets/images/map.png'
