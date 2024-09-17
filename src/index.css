@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer bgope {
+    .reladiv {
+        width: 1600px;
+        /* height: 400px; */
+        background-color: rgb(110 231 183 / 0.3);
+        transform: translateX(-50%);
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        box-shadow: 0 0 5000px 50px rgba(110, 231, 183, 0.719);
+    }
+    .proreladiv {
+        width: 500px;
+        /* height: 400px; */
+        background-color: rgb(110 231 183 / 0.3);
+        transform: translateX(-50%);
+        position: absolute;
+        top: 0;
+        left: 0;
+        box-shadow: 0 0 5000px 50px rgba(110, 231, 183, 0.719);
+    }
+    .aboutrelavdiv {
+        width: 100px;
+        /* height: 400px; */
+        background-color: rgb(110 231 183 / 0.3);
+        transform: translateX(-50%);
+        position: absolute;
+        top: 0;
+        left: 0;
+        box-shadow: 0 0 5000px 50px rgba(110, 231, 183, 0.719);
+    }
+    .aboutrelavdiv1 {
+        width: 100px;
+        /* height: 400px; */
+        background-color: rgb(110 231 183 / 0.3);
+        transform: translateX(-50%);
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        box-shadow: 0 0 5000px 50px rgba(110, 231, 183, 0.719);
+    }
+    .aboutrelavdiv2 {
+        width: 100px;
+        /* height: 400px; */
+        background-color: rgb(110 231 183 / 0.3);
+        transform: translateX(-50%);
+        position: absolute;
+        top: 0;
+        right: 0;
+        box-shadow: 0 0 5000px 50px rgba(110, 231, 183, 0.719);
+    }
+  }
+  
