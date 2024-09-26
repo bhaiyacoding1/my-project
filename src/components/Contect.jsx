@@ -13,7 +13,9 @@ const Contect = () => {
           </div>
           <div className="btn ">
             <button className='flex items-center justify-center gap-1 bg-black px-8 py-2 rounded-lg w-max'>
-              <span className='text-white font-semibold'>Contect Me</span>
+              <span className='text-white font-semibold'>
+              <a href="mailto:sachinrathore112233@gmail.com" target="_blank"
+                class="contact-subtitle">Contect Me</a></span>
               <img src={UpArow}  alt="uparrow" className='text-white size-5' />
             </button>
           </div>

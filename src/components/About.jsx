@@ -100,7 +100,7 @@ const About = () => {
                   </div>
                 </div>
 
-                <div className=" relative bg-gray-800  z-10 card2 outline outline-white/10 rounded-lg  h-[280px] w-[345px] md:w-[500px] sm:w-[400px] overflow-hidden">
+                <div className=" relative bg-gray-800  z-10 card2 outline outline-white/10 rounded-lg  h-[320px] sm:h-[280px] w-[345px] md:w-[500px] sm:w-[400px] overflow-hidden">
                   <div className='absolute inset-0 -z-20 opacity-5' style={{
                     backgroundImage: `url(${grain})`
                   }}></div>
@@ -124,7 +124,7 @@ const About = () => {
 
               </div>
               <div className="rowTwo flex flex-col sm:flex-row gap-10 justify-center items-center">
-                <div ref={constraintsRef} className="motionDiv relative bg-gray-800  card2 outline outline-white/10 rounded-lg  h-[280px] w-[345px] md:w-[500px] sm:w-[400px] overflow-hidden">
+                <div ref={constraintsRef} className="motionDiv relative bg-gray-800  card2 outline outline-white/10 rounded-lg  h-[320px] sm:h-[280px] w-[345px] md:w-[500px] sm:w-[400px] overflow-hidden">
                   <div className='absolute inset-0 -z-20 opacity-5' style={{
                     backgroundImage: `url(${grain})`
                   }}></div>
