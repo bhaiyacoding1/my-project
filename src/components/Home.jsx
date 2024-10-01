@@ -22,7 +22,7 @@ const Home = () => {
             </div>
           </div>
           <div className='max-w-lg mx-auto px-8 sm:px-0'>
-            <h1 className='font-serif text-3xl md:text-5xl text-center mt-5 tracking-wide leading-[1.2rem]'>Hello there👋, i'm Sachin Rathore</h1>
+            <h1 className='font-serif text-3xl md:text-5xl text-center mt-5 tracking-wide'>Hello there👋, i'm Sachin Rathore</h1>
             <p className='mt-4 text-center text-white/60 md:text-lg '>For Building Modern User Experiences,I specialize in trasforming designs into functional, high-performing web applications. Let's discuss
               your next project.
             </p>
